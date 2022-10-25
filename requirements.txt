@@ -1,0 +1,4 @@
+pandas as pd
+seaborn as sns
+os
+pythonnet
