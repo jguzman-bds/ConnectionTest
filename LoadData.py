@@ -19,9 +19,9 @@ import Microsoft.AnalysisServices.AdomdClient as ADOMD
 
 server = 'powerbi://api.powerbi.com/v1.0/myorg/ModelosMayores1GB'
 
-username = 'j.guzman@bdigitalsolutions.com'
+username = 'a.garcia@bdigitalsolutions.com'
 
-password = 'Bogota2022'
+password = '..Paris@Diagonal550'
 
 print('ok1\n')
 conn1 = ssas.set_conn_string(
