@@ -15,14 +15,6 @@ from System.Data import DataTable
 import Microsoft.AnalysisServices.Tabular as TOM
 import Microsoft.AnalysisServices.AdomdClient as ADOMD
 
-
-
-server = 'powerbi://api.powerbi.com/v1.0/myorg/ModelosMayores1GB'
-
-username = 'a.garcia@bdigitalsolutions.com'
-
-password = '..Paris@Diagonal550'
-
 print('ok1\n')
 conn1 = ssas.set_conn_string(
     server=server,
