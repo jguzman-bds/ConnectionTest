@@ -1,4 +1,8 @@
-pandas as pd
-seaborn as sns
-os
+pandas
+seaborn
+streamlit
+altair
+pydeck
+matplotlib
+numpy
 pythonnet
